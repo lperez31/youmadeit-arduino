@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+YouMadeIt	KEYWORD1	YouMadeIt
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setCallback		KEYWORD2
+sendToMobile	KEYWORD2
+sentToDevice	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
